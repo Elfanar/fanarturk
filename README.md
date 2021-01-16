@@ -5,8 +5,7 @@ This is a UI for Fanar Turk sales page, it is only here temporarly. Ah*** will m
 
 ### Installation
 
-
-- ```git clone [https://github.com/rabichawila/fanarturk](https://github.com/rabichawila/fanarturk) fanarturk```
+- ```git clone https://github.com/rabichawila/fanarturk fanarturk```
 - ```cd fanarturk```
 - ```composer install```
 - ```php artisan serve```
