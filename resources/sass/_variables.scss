@@ -1,0 +1,82 @@
+// Body
+$body-bg: #f8fafc;
+
+// Typography
+$font-family-sans-serif: 'Nunito', sans-serif;
+$font-size-base: 0.9rem;
+$line-height-base: 1.6;
+
+// Colors
+$blue: #3490dc;
+$indigo: #6574cd;
+$purple: #9561e2;
+$pink: #f66d9b;
+$red: #e3342f;
+$orange: #f6993f;
+$yellow: #ffed4a;
+$green: #38c172;
+$teal: #4dc0b5;
+$cyan: #6cb2eb;
+
+$theme-colors: (
+  "primary": #ee5e32,
+  "danger": #ff4136
+);
+
+
+/* set the overriding variables */
+$grid-breakpoints: (
+  xxxs: 0,
+  xxs: 320px,
+  xs: 568px,
+  sm: 667px,
+  md: 768px,
+  lg: 992px,
+  xl: 1200px,
+  xxl: 1440px,
+  xxxl: 1600px
+);
+$container-max-widths: (
+  lg: 1140px,
+  xl: 1240px,
+  xxl: 1368px,
+  xxxl: 1560px
+);
+
+
+  .text-12{
+    font-size: 12px;
+  }
+  .text-13{
+    font-size: 13px;
+  }
+  .text-14{
+    font-size: 14px;
+  }
+  .text-15{
+    font-size: 15px;
+  }
+  .text-16{
+    font-size: 16px;
+  }
+  .text-17{
+    font-size: 17px;
+  }
+  .text-18{
+    font-size: 18px;
+  }
+  .text-20{
+    font-size: 20px;
+  }
+  .text-24{
+    font-size: 24px;
+  }
+  .text-26{
+    font-size: 26px;
+  }
+  .text-28{
+    font-size: 28px;
+  }
+  .text-30{
+    font-size: 30px;
+  }
