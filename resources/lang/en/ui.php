@@ -14,7 +14,7 @@ return [
     "prefered-language"         => "preferred language *",
     "coupon"                    => "Coupon *",
     "phone"                     => "Phone number *",
-    "receipt"                   => "Receipt",
+    "receipt"                   => "Receipt *",
     "apply"                     => "Apply now",
 
 ];

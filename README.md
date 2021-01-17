@@ -11,4 +11,5 @@ This is a UI for Fanar Turk sales page, it is only here temporarly. Ah*** will m
 - ```php artisan serve```
 
 #### That's it!
+If you have time please clone it test it and give me feedback, it helps al
 
